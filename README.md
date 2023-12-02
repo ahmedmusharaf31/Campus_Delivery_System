@@ -1,3 +1,17 @@
-"# Campus_Delivery_System" 
-A semester project consisting fundamental concepts of Object Oriented Programming (OOP) and standard template library of C++, furnished with logical constraints in order to create a food delivery service backend, within the university premises.
->>>>>>> 68f1a29e9de06bd88c8813413a0b69be8774883c
+# Campus Delivery System
+
+Campus Delivery System is a semester project showcasing Object-Oriented Programming (OOP) concepts in C++. The project focuses on creating a backend for a food delivery service within a university campus.
+
+## Features
+
+- Object-Oriented Design
+- Standard Template Library (STL) Usage
+- Logical Constraints for Efficient Backend
+- Scalable Architecture
+
+## Getting Started
+
+**Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/ahmedmusharaf31/Campus_Delivery_System.git
